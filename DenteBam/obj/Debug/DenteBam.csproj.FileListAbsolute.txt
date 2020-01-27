@@ -1,0 +1,21 @@
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\bin\Debug\DenteBam.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Debug\DenteBam.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Debug\DenteBam.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Debug\DenteBam.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Debug\DenteBam.frmdentista.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\bin\Debug\DenteBam.exe
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\bin\Debug\DenteBam.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Debug\DenteBam.exe
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Debug\DenteBam.pdb
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\bin\Debug\DenteBam.exe.config
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.exe
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.pdb
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.frmdentista.resources
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.Properties.Resources.resources
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\bin\Debug\DenteBam.exe
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\bin\Debug\DenteBam.pdb
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.frmpaciente.resources
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.frmConsulta.resources
+C:\Users\Aluno\Desktop\soGmesmo\DenteBam\obj\Debug\DenteBam.TelaPrincipal.resources

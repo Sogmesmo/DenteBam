@@ -1,0 +1,4 @@
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\bin\Release\DenteBam.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Release\DenteBam.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Release\DenteBam.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\DenteBam\DenteBam\obj\Release\DenteBam.csproj.GenerateResource.Cache
